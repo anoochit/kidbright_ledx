@@ -1,0 +1,3 @@
+Blockly.Msg.LEDx_TEXT_TITLE   = "LEDx TITLE";
+Blockly.Msg.LEDx_TEXT_TOOLTIP = "LEDx TOOLTIP";
+Blockly.Msg.LEDx_TEXT_HELPURL = "LEDx HELPURL";
